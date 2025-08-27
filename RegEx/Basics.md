@@ -23,5 +23,5 @@ Will be using javascript examples - but usually applicable across languages with
     regex.test(sentence)
     ```
     - This will return true for ```sentence = "I love pizza"```
-    - This will also return true for ```I love BUrgEr"```
+    - This will also return true for ```sentence = "I love BUrgEr"```
       
