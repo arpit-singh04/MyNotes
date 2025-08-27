@@ -3,7 +3,7 @@ Will be using javascript examples - but usually applicable across languages with
 ## Basic Regex Representation, test function and flags
   ### Basics
   - ```
-    let senetence = Hello GitHub, what a normal day it is, isn't it?
+    let sentence = Hello GitHub, what a normal day it is, isn't it?
     let regex = /it/
     ```
     - The string that needs to be searched goes in beteween /[here]/
