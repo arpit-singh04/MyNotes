@@ -22,7 +22,7 @@
   ```
 - Note that SQLite is case sensitive so it's better to follow general SQL naming and case conventions
 
-## SQLite Storagea Classes
+## SQLite Storages Classes
 - There are five:
   - REAL: For floating point numbers
   - INTEGER: Signed Integers (1, 2, 3, 4, 6, or 8 bytes)
