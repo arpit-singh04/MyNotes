@@ -27,7 +27,7 @@
   - REAL: For floating point numbers
   - INTEGER: Signed Integers (1, 2, 3, 4, 6, or 8 bytes)
   - TEXT: Strings
-  - BLOB: Binary data, stored exactly as input
+  - BLOB: Binary data, stored exactly as input - example: media files
   - NULL: Null values
  
 - For example, BOOLEAN maps to INTEGER (0 or 1)
