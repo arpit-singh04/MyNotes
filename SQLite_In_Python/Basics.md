@@ -51,3 +51,7 @@
   ```
 - Note: Length limits are ignored, so something like varchar(10) and varchar(100) will be the same
 - Note: You can technically store any type in any column but that's dangerous
+
+## Commiting and Closing
+- Commit to actually save data to the database - ```connec.commit()```
+- Close the connection like in every db - ```connec.close()```
