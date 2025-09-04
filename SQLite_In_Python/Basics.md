@@ -6,7 +6,7 @@
   - you can also connect to just memory instead of creating file in storage by typing memory between two ':' inside the connect() but such a db will be destroyed once you close the program
 
 ## Creating a Cursor
-- curor is like a pointer - an abstraction layer between programming language and db
+- cursor is like a pointer - an abstraction layer between programming language and db
 - ```curs = connec.cursor()```
 - Now we can pass queries in single line strings or multiline strings
 
